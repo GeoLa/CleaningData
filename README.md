@@ -6,9 +6,10 @@ The purpose of the project was to create an R script that does the following
 	2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 	3. Uses descriptive activity names to name the activities in the data set
 	4. Appropriately labels the data set with descriptive variable names. 
-	5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+	5. From the data set in step 4, creates a second, independent tidy data set with 
+	   the average of each variable for each activity and each subject.
 
-Using the Human Activity Recognition Using Smartphones Data Set. The dataset and more details aobut it can be found at
+Using the Human Activity Recognition Using Smartphones Data Set. The dataset and more details about it can be found at
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
