@@ -35,6 +35,7 @@ dftrain$Type <- "train"
 
 ## Load and read test data
 # test data
+setwd("../")
 setwd("./test")
 list.files()
 x_test <- read.table("X_test.txt")
